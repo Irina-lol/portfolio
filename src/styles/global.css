@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #f0f8ff; /* голубой фон */
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #1e90ff; /* синий для заголовков */
+}
+
+a {
+  color: #1e90ff; /* синий для ссылок */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+  

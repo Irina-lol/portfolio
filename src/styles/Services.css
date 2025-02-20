@@ -1,0 +1,26 @@
+.services {
+    background-color: #f0f8ff; /* голубой */
+    padding: 40px 0;
+  }
+  
+  .services h2 {
+    color: #1e90ff; /* синий */
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .services ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .services li {
+    background-color: white;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 1.1rem;
+    color: #333;
+  }
+  

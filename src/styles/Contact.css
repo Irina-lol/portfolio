@@ -1,0 +1,17 @@
+.contact {
+    background-color: #f0f8ff; /* голубой */
+    padding: 40px 0;
+  }
+  
+  .contact h2 {
+    color: #1e90ff; /* синий */
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .contact p {
+    font-size: 1.1rem;
+    color: #333;
+    margin: 10px 0;
+  }
+  

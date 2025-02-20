@@ -1,0 +1,16 @@
+.portfolio {
+    background-color: #e6f7ff; /* светло-голубой */
+    padding: 40px 0;
+  }
+  
+  .portfolio h2 {
+    color: #1e90ff; /* синий */
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .portfolio p {
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
